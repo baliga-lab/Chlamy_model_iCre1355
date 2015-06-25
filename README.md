@@ -11,4 +11,6 @@ This repository includes:
 4. GAMS files for simulating growth on autotrophic, mixotrophic and heterotrophic conditions
 <br>
 5. GAMS code for FBA, FVA and single gene deletion analysis.
+<br>
+6. Excel files with reactions, metabolites and citations, as well as associated metadata.
 </p>
